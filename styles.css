@@ -405,6 +405,7 @@ input {
   h1 {
     font-size: 35px;
     margin: 5px;
+    margin-bottom: 0px;
   }
 
   h5 {
