@@ -76,6 +76,11 @@ h4 {
   margin-top: 0px;
 }
 
+#shops h2 {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
 .shop {
   height: auto;
   position: relative;
@@ -275,7 +280,7 @@ input {
 }
 
 .img-clickable:hover {
-  opacity: 0.7; /* clickable images have opacity 0.7 on hover to indicate"= */
+  opacity: 0.7; /* clickable images have opacity 70% on hover */
 }
 
 /* Tablet adjustments*/
