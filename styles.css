@@ -179,7 +179,7 @@ button {
   padding: 0px;
   margin-left: 30px;
   margin-bottom: 30px;
-  box-shadow: 2px 2px 5px darkgray;
+  box-shadow: 2px 2px 5px darkgray; /* outside shadow for button */
 }
 
 button:hover {
@@ -196,7 +196,7 @@ input {
   height: 50px;
   margin-left: 30px;
   margin-bottom: 30px;
-  box-shadow: 2px 2px 5px darkgray inset;
+  box-shadow: 2px 2px 5px darkgray inset; /* inner shadow for input box */
 }
 
 .half-width-image {
